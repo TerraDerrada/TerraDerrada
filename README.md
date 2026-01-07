@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  ABOUT ME :
 Self-taught, independent learner. I build my own path instead of waiting for permission. Ambitious by default, not by words. I work across embedded systems, full-stack development, software engineering, game development (Godot, Unity, Roblox), electrical engineering, robotics, and cybersecurity. I don’t lock myself into one box; I master systems end-to-end, from hardware to code to security. I learn fast, break things, fix them, and move forward.<br><br>My mindset is simple: you only live once. If people say something is impossible, that’s exactly what I aim to reach.<br>
 
 
